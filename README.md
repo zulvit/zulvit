@@ -1,4 +1,4 @@
-# Hello, I'm a student at RUT (MIIT) 👋
+# Hello, I'm a backend dev. 👋
 
 ## About Me 🚀
 I'm majoring in Computer Science and Engineering and actively developing my skills in Java/Golang Backend development. I also have some experience with the Android SDK.
